@@ -32,7 +32,7 @@
 
 ###
 
-
+![logo](assets/logo.svg)
 
 ###
 
