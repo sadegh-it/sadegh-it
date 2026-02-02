@@ -1,41 +1,43 @@
 <h1 align="center">Hi 👋, I'm SADEGH IT</h1>
 
 ###
-
+ 
 <div align="center">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  
 </div>
 
 ##
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-</div>
-
+ [![telegram](https://img.shields.io/badge/Telegram-%20?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/SADEGH_IT)
+ [![instagram](https://img.shields.io/badge/Instagram-%20?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F)](https://www.instagram.com/sadegh.it)
+ [![gmail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=Gmail&logoColor=white&color=%23e94134)](mailto:sadegh0it@gmail.com?subject=Contact%20from%20GitHub)
+ [![linkdin](https://img.shields.io/badge/linkedin-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/sadegh-it-2578a0218)
+ [![discord](https://img.shields.io/badge/Discord-%20?style=for-the-badge&logo=Discord&logoColor=white&color=7289DA)](discord.com)
+ 
 ---
- سلام من یک
-توسعه‌ دهنده اندروید با زبان Kotlin و Jetpack Compose با معماری‌های مدرن اندروید هستم. 
+ سلام من یک برنامه نویس اندروید با زبان Kotlin و Jetpack Compose با معماری‌های مدرن MVVM اندروید هستم. 
 
 دارای تجربه در طراحی UI/UX ، کار با APIها ، مدیریت وضعیت با Flow و Coroutines 
 
  مسلط به اصول و معماری MVVM و انتشار اپلیکیشن در مارکت‌های نرم‌افزاری.
 
  آشنایی مقدماتی با Kotlin Multiplatform (KMP)
-
+ 
 🛠️ مهارت‌های فنی (Technical Skills)
 
 🔹 زبان برنامه‌نویسی : Kotlin (Advanced) 
@@ -60,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://komarev.com/ghpvc/?username=sadegh-it&style=for-the-badge" />
 </div>
 
 ###
