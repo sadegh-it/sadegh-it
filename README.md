@@ -59,11 +59,22 @@
 🔹 آشنایی با تست نویسی و T.D.D
 
 ---
-###
 
+## 🎓 مهارت های من
+###
+<br>
+<h3 align="left">🔮 Kotlin | 90%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="400" >
+<br>
+<h3 align="left">🔮 Android Studio | 80%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="380px" height="16px">
+<br>
+
+---
+
+###
+![logo](assets/logo.svg)
+
+###
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sadegh-it&style=for-the-badge" />
 </div>
 
-###
-![logo](assets/logo.svg)
