@@ -58,7 +58,7 @@ I mainly work with Kotlin and Jetpack Compose.  I love modern MVVM architectures
 
 ## 🚀 Skill Dashboard
 
-<div align="left" >
+<div align="center" >
  
 <table>
 <tr>
@@ -91,30 +91,6 @@ Dependency Injection
 
 </tr>
 </table>
-</div>
-
-##
-
-
-<div align="left">
-
-<table>
-
-<tr>
-<td align="center" width="200%">
-
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=sadegh-it&theme=dark&show_icons=true">
-  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=sadegh-it&show_icons=true" >
-</picture>
-
-</td>
-</tr>
-
-</table>
-
 </div>
 
 
@@ -151,7 +127,7 @@ Dependency Injection
   <img src="https://komarev.com/ghpvc/?username=sadegh-it&style=for-the-badge" />
 </div>
 
-##
+---
 
 ![logo](assets/logo.svg)
 
